@@ -2,8 +2,6 @@ team: core-platform
 docker:
   images:
     - core-docker-release-local.artifactory.e-spirit.de/core-platform/firstspirit-base:jdk-lts
-tests:
-  - none
 release:
   enabled: false
 artifacts:
